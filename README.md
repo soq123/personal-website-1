@@ -1,0 +1,2 @@
+This project is a personal website built as part of my coding bootcamp assignment to showcase my bio, skills, and projects. The site includes three pages (Home, About, and Portfolio) with a persistent navigation header, personalized content, images, and basic styling through an external CSS file. The project is version-controlled on GitHub with multiple branches and commits to demonstrate proper workflow.
+
